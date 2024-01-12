@@ -7,7 +7,7 @@ Exploratory Data Analysis refers to the critical process of performing initial i
 1. Data Collection
 Data collection is an essential part of exploratory data analysis. It refers to the process of finding and loading data into our system. Good, reliable data can be found on various public sites or bought from private organizations. Some reliable sites for data collection are Kaggle, Github, Machine Learning Repository, etc
 
-![alt text](https://github.com/Aditya-Mandothia/Data-Analysis/blob/7fea787a4fbef0719df90830d9dfcb47df4a7c95/Screenshot%20(72).png)
+![alt text](https://github.com/prerna-yd16/Diwali_Sales_Analysis/blob/main/Screenshot%20(72).png)
 
 3. Data Cleaning
 Data cleaning refers to the process of removing unwanted variables and values from your dataset and getting rid of any irregularities in it. Such anomalies can disproportionately skew the data and hence adversely affect the results. Some steps that can be done to clean data are:
